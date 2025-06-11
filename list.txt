@@ -1,0 +1,15 @@
+https://www.google.com
+https://github.com
+https://httpstat.us/200
+https://httpstat.us/301
+https://httpstat.us/404
+https://httpstat.us/500
+https://www.wikipedia.org
+https://www.reddit.com
+https://expired.badssl.com
+https://self-signed.badssl.com
+https://www.bbc.com
+https://www.python.org
+https://example.com
+neverssl.com
+https://thispagedoesnotexist.com
